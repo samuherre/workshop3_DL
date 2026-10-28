@@ -1,4 +1,4 @@
-﻿# Clasificación de Sentimiento de Reseñas de Yelp con 🤗 Trainer
+﻿# Clasificación de Sentimiento de Reseñas de Yelp con Trainer
 
 Fine-tuning de **DistilBERT** para clasificar reseñas de Yelp en tres clases de
 sentimiento (`negative`, `neutral`, `positive`) usando la API **Trainer** de
