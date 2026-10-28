@@ -1,0 +1,25 @@
+﻿# Kiro spec/workflow files (no son entregables)
+.kiro/
+
+# Cachés de Python y pruebas
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.hypothesis/
+
+# Artefactos de entrenamiento del modelo
+resultados_yelp/
+mi_modelo_yelp/
+yelp_review_full/
+data/
+
+# Entornos y configuración de editor
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+
+# Varios del sistema operativo
+.DS_Store
+Thumbs.db
